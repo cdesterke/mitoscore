@@ -1,0 +1,15 @@
+Package: mitoscore
+Type: Package
+Title: single sample expression scores for mitocarta V3 genesets
+Version: 1.0.0
+Author: Christophe Desterke
+Maintainer: The package maintainer <christophe.desterke@gmail.com>
+Description: based on mitocarta genesets mitoscore package performed
+    single sample enrichment score for mitochondria functions in human
+    samples of transcriptome
+License: GNU
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: pheatmap, GSVA
+Depends: R (>= 4.3.3)
